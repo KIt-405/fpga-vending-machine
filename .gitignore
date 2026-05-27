@@ -1,0 +1,23 @@
+# Quartus II Auto-Generated Directories
+quartus/db/
+quartus/incremental_db/
+quartus/output_files/
+quartus/simulation/
+quartus/greybox_tmp/
+
+# Quartus II Auto-Generated Files
+*.rpt
+*.summary
+*.done
+*.pin
+*.jdi
+*.qws
+*.bak
+*.smsg
+*.qdf
+
+# Programming Files (Only upload source code, not compiled binaries)
+*.sof
+*.pof
+*.jam
+*.jbc
