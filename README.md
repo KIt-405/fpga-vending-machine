@@ -194,10 +194,9 @@ fpga-vending-machine/
 │   └── vending_machine_tb.v
 │
 ├── docs/
-│   ├── fsm_diagram.png
 │   ├── waveform.png
-│   ├── rtl_schematic.png
-│   └── timing_report.png
+│   
+│   
 │
 └── README.md
 ```
