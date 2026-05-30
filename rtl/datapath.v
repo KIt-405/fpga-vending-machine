@@ -15,7 +15,6 @@ module datapath (
                         coin_10c ? 8'd10 :
                         coin_5c  ? 8'd5  : 8'd0;
 
-    // Accumulator Register (Sequential Logic)
     always @(posedge clk , posedge rst)
 	 begin
         if (rst) 
